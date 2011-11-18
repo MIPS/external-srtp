@@ -86,6 +86,7 @@
 #define HAVE_SYS_TYPES_H 1
 
 /* Define to 1 if you have the <sys/uio.h> header file. */
+#undef HAVE_SYS_UIO_H
 #define HAVE_SYS_UIO_H 1
 
 /* Define to 1 if the system has the type `uint16_t'. */
